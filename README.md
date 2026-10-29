@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Smriti 👋
 
-<!--
-**ismirtibohara/ismirtibohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc CSIT student at Tribhuvan University, Nepal 🇳🇵
+I'm interested in AI/ML and data, and I'm building my first projects in public.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
+- Student Performance Predictor (Python, SQL, scikit-learn, Streamlit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+Python · SQL · Machine Learning · Git & GitHub
+
+## 📫 Connect with me
+[LinkedIn](www.linkedin.com/in/smriti-bohara-96161633b)
