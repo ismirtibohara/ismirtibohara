@@ -1,6 +1,7 @@
 # Hi, I'm Smriti 👋
 
 BSc CSIT student at Tribhuvan University, Nepal 🇳🇵
+
 I'm interested in AI/ML and data, and I'm building my first projects in public.
 
 ## 🔭 Currently working on
