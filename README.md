@@ -11,4 +11,4 @@ I'm interested in AI/ML and data, and I'm building my first projects in public.
 Python · SQL · Machine Learning · Git & GitHub
 
 ## 📫 Connect with me
-[LinkedIn](www.linkedin.com/in/smriti-bohara-96161633b)
+www.linkedin.com/in/smriti-bohara-96161633b
