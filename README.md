@@ -1,4 +1,4 @@
-# Hi, I'm ismrityyy
+# Hi, I'm ismirti  :)
 
 BSc CSIT student at Tribhuvan University, Nepal 🇳🇵
 
