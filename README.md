@@ -2,7 +2,7 @@
 
 BSc CSIT student at Tribhuvan University, Nepal 🇳🇵
 
-I'm interested in AI/ML and data, and I'm building my first projects in public.
+I'm interested in AI/ML and data, and I'm building my projects.
 
 ## 🔭 Currently working on
 - Student Performance Predictor (Python, SQL, scikit-learn, Streamlit)
