@@ -1,11 +1,8 @@
-# Hi, I'm Smriti 👋
+# Hi, I'm ismrityyy
 
 BSc CSIT student at Tribhuvan University, Nepal 🇳🇵
 
 I'm interested in AI/ML and data, and I'm building my projects.
-
-## 🔭 Currently working on
-- Student Performance Predictor (Python, SQL, scikit-learn, Streamlit)
 
 ## 🌱 Learning
 Python · SQL · Machine Learning · Git & GitHub
